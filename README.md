@@ -1,3 +1,3 @@
 # Enhanced-Nuclear-Information-Fusion-and-Visual-Transformer、
 
-It will be open sourced in print.
+The code will be published after the article is published.
